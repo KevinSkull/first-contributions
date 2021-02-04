@@ -12,6 +12,7 @@
 - [Ramanpreet Singh](https://github.com/raman5911)
 - [Jongie Oaquiera] (https://github.com/joaquiera)
 - Samantha Milliga
+- Kevin C
 - Kalp Vyas
 - Siddhanth Verma
 - Sharon Greally
